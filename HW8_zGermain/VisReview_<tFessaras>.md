@@ -17,3 +17,7 @@ The color selection is good for a continuous parameter (and colorblind compliant
 
 
 ![Zach's plot](https://raw.githubusercontent.com/ZachGermain/DSPS_zgermain/master/HW8_zGermain/eaAlbedoAst.png)
+
+# FBB 
+
+good review well argued. This kind of plot that has high density regions may benefit from this style plot https://www.astroml.org/book_figures/chapter1/fig_S82_scatter_contour.html
